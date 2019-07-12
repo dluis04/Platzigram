@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_pass">Confirmar Contraseña</string>
+    <string name="text_button_create_account">Unete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">Diego Luis</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 dias</string>
+    <string name="likeNumbercard_card">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secodword_detail">Me Gusta</string>
+    <string name="tittleimagedetail">\"Todos copas en la playa\"</string>
+    <string name="lorem">Las aplicaciones Java EE nacen debido a que necesitamos aplicaciones distribuídas, aplicaciones con muchos componentes que funcionen en entornos separados y al mismo tiempo puedan estar conectados mediante una red. Es por ello que necesitaremos una mente central que una estos componentes, este será un servidor, que tenga todos los recursos de velocidad, seguridad y confiabilidad, este debe estar idealmente dedicado a nuestra aplicación. En Java EE siempre necesitaremos un servidor, ya sea de pago o gratuito. Algunos servidores de aplicaciones famosos son GlassFish, WildFly, Apache etc. Existe otro conocido que no es considerado servidor de aplicaciones sino más bien contenedor de aplicaciones me refiero a Apache Tomcat, el cual esta diseñado para contener aplicaciones Java solamente.</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
+
+    <string name="login_error">Ocurriió un error: </string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_descripcion">Descripcion</string>
+    <string name="text_button_createpost">Crear Post</string>
+
+    <string name="facebook_app_id">2297640003897991</string>
+    <string name="fb_login_protocol_scheme">fb2297640003897991</string>
+    <string name="menu_signout">Cerrar Sesion</string>
+    <string name="menu_about">Acerca de</string>
+
+</resources>
